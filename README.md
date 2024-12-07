@@ -45,11 +45,13 @@ The **Personal Monthly Budget Tracker** is a simple tool for managing and compar
 
 ## Screenshots  
 ### Income and Balance Overview  
-![Income Overview](path/to/screenshot1.png)  
+![image](https://github.com/user-attachments/assets/5078c987-396f-424a-a8f7-ddd2a466329a)
+ 
 ### Housing and Transport Expenses  
-![Housing and Transport](path/to/screenshot2.png)  
+![image](https://github.com/user-attachments/assets/df8934f3-b8bc-46e4-83b3-7e70806db9eb)
+  
 ### Food and Personal Care Expenses  
-![Food and Personal Care](path/to/screenshot3.png)  
+![image](https://github.com/user-attachments/assets/d7fffaa0-d122-43fd-a433-d246c35d2a52)
 
 ---
 
